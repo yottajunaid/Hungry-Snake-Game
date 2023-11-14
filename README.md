@@ -23,14 +23,8 @@ Welcome to the Snake Game with a Graphical User Interface (GUI)! This Python pro
      ```bash
      git clone https://github.com/yottajunaid/Hungry-Snake-Game.git
      ```
-
-2. **Install Dependencies:**
-   - Ensure you have the required dependencies installed. You can use a virtual environment or install them globally:
-     ```bash
-     pip install -r requirements.txt
-     ```
-
-3. **Run the Game:**
+     
+2. **Run the Game:**
    - Navigate to the project directory:
      ```bash
      cd Hungry-Snake-Game

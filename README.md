@@ -34,6 +34,7 @@ Welcome to the Snake Game with a Graphical User Interface (GUI)! This Python pro
      python main.py
      ```
    - Use arrow keys to control the snake. Have fun playing!
+   - To Restart the close the window and run the file again
  
 ## Screenshots
 

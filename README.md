@@ -1,4 +1,4 @@
-# Hungry-Snake-Game-
+# Hungry-Snake-Game
 Hungry Snake Game with GUI programmed in Python
 
 Welcome to the Snake Game with a Graphical User Interface (GUI)! This Python project brings the classic Snake game to life with an interactive and visually appealing interface.
